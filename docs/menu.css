@@ -1,0 +1,59 @@
+header .menu {
+    margin: 30px;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+header .menu a:hover {
+    text-decoration: underline;
+}
+header .menu a {
+    font-size: 18px;
+    font-family: 'Lato';
+    font-weight: 300;
+    display: inline-block;
+    padding: 10px 0;
+    margin: 0 15px;
+    color: #fff;
+    text-decoration: none;
+}
+body{
+    background-color: black;
+    align-content: center;
+}
+h1{
+    color: beige;
+    font-size: 60PX;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.contenedor1{
+    width: 730px;
+    height: auto;
+    background-color: rgb(8, 104, 94);
+    display: flex;
+    margin: 20px;
+    padding: 30px;
+    border: 3px solid white;
+    margin-left: 230px;
+    
+}
+.subcontenedor{
+    margin: 20px;
+    border: 2px solid beige;
+    height: 240px;
+    text-align: center;
+}
+a{
+    color: beige;
+    text-decoration: none;
+    font-size: 25px; 
+}
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
